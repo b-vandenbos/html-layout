@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: rgb(216,216,216);
+    width: 100%;
+    height: 90px;
+    padding: 10px;
+}
+
+.navbutton {
+    width: 90px;
+    height: 100%;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+    color: #555;
+    font-size: 22px;
+    width: 90%;
+    margin: 30px auto;
+    line-height: 1em;
+}
+
+.color_block {
+    width: 100%;
+    height: 125px;
+}
+
+.blue {
+    background: rgb(74,144,226);
+}
+
+.turquoise {
+    background: rgb(80,227,194);
+}
+
+.green {
+    background: rgb(184,233,134);
+}
+
+.yellow {
+    background: rgb(248,231,28);
+}
